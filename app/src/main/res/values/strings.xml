@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yoga Prediction App</string>
+    <string name="header">Yoga pose prediction and Accuracy Detection App\nAditya Rana and Aryan Tyagi\niHub IIT Mandi</string>
+</resources>
